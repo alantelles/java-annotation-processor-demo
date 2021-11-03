@@ -1,0 +1,1 @@
+This is a generic file whose content will be printed during the annotation processing.
